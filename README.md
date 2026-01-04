@@ -52,7 +52,7 @@ A professional, production-ready desktop application for backing up iPhone photo
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/iphone-backup.git
+git clone https://github.com/azharabdullah4k/iphone-backup.git
 cd iphone-backup
 ```
 
@@ -426,4 +426,5 @@ Contributions welcome! Please:
 
 **Version:** 1.0.0  
 **Last Updated:** January 2024  
+
 **Author:** Abdullah Azhar
