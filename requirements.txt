@@ -1,0 +1,38 @@
+﻿# Core Dependencies
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+aiofiles==23.2.1
+python-multipart==0.0.6
+
+# GUI
+PyQt6==6.6.1
+PyQt6-Qt6==6.6.1
+
+# Database
+sqlalchemy==2.0.25
+aiosqlite==0.19.0
+
+# Image/Video Processing
+Pillow==10.2.0
+python-magic-bin==0.4.14  # For file type detection on Windows
+
+# Encryption
+cryptography==42.0.0
+
+# QR Code
+qrcode[pil]==7.4.2
+
+# File Monitoring
+watchdog==3.0.0
+
+# Utilities
+python-dateutil==2.8.2
+psutil==5.9.8  # For disk space monitoring
+pywin32==306   # For Windows-specific features
+
+# Packaging
+pyinstaller==6.3.0
+
+# Testing
+pytest==7.4.4
+pytest-asyncio==0.23.3
